@@ -1,7 +1,7 @@
 {
 	"name": "@yomed/packer",
 	"description": "Simple port of /packer/ by Dean Edwards",
-	"version": "0.0.6",
+	"version": "1.0.0",
 	"repository": "https://github.com/yomed/packer",
 	"author": "Evan Wallace",
 	"main": "packer",
