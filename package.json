@@ -7,7 +7,7 @@
 	"main": "packer",
 	"dependencies": {
 		"htmlparser": "^1.7.7",
-		"jsdom": "^11.0.0",
+		"jsdom": "^16.2.2",
 		"nomnom": "^1.8.1"
 	},
 	"bin": {
