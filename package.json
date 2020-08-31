@@ -2,7 +2,7 @@
 	"name": "packernbr1",
 	"description": "Simple port of /packer/ by Dean Edwards",
 	"version": "2.0.0",
-	"repository": "https://github.com/yomed/packer",
+	"repository": "https://github.com/tidus30691nexus5/packer/tree/master",
 	"author": "Evan Wallace",
 	"main": "packer",
 	"dependencies": {
